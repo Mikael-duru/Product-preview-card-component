@@ -60,6 +60,7 @@ main {
 .image2 {
   border-radius: 1.2rem 0 0 1.2rem;
   vertical-align: middle;
+  mix-blend-mode: multiply;
 }
 
 .image1 {
@@ -214,6 +215,7 @@ footer {
   .image1 {
     display: block;
     border-radius: 1.2rem 1.2rem 0 0;
+    mix-blend-mode: multiply;
   }
 
   .image2 {
