@@ -56,11 +56,17 @@ main {
 }
 
 /* hero */
+.product-image {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .1);
+}
 
 .image2 {
   border-radius: 1.2rem 0 0 1.2rem;
   vertical-align: middle;
   mix-blend-mode: multiply;
+  filter: contrast(1);
 }
 
 .image1 {
