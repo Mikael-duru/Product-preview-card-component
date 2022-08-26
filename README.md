@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mikael-duru/Product-preview-card-component](https://github.com/Mikael-duru/Product-preview-card-component)
-- Live Site URL: [https://mikael-duru.github.io/Product-preview-card-component/](https://mikael-duru.github.io/Product-preview-card-component/)
+- Live Site URL: [https://product-preview-card-component-mikael.netlify.app/](https://product-preview-card-component-mikael.netlify.app/)
 
 ## My process
 
